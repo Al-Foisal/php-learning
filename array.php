@@ -7,7 +7,7 @@
 //     '7',
 //     '5',
 // ];
-$person = [
+$person_1 = [
     'name'    => 'Mr. Abdul Karim',
     'phone'   => '017896523',
     'age'     => 30,
